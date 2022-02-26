@@ -20,9 +20,9 @@ the firm you invest in should be located in a foreign jurisdiction and control o
 
 3)Is there any trend of overall foreign direct investment(filter to select any indivual sector)
 
-4) Which sectors reported high growth in FDI in last 5 years?
+4)Which sectors reported high growth in FDI in last 5 years?
 
-5) Which sectors reported lowest growth in FDI in last 5 years?
+5)Which sectors reported lowest growth in FDI in last 5 years?
 
 6)Which sectors reported the most variation overall?
 
