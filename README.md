@@ -14,20 +14,20 @@ However, such institutions do not control various aspects of management in the f
 the firm you invest in should be located in a foreign jurisdiction and control ownership to a degree. Often, it is the large firms that engage in FDI.
 
 
-1)Which sector receives the maximum direct funding for a given year?
+1) Which sector receives the maximum direct funding for a given year?
 
-2)Which sector receives the minimum direct funding for a given year?
+2) Which sector receives the minimum direct funding for a given year?
 
-3)Is there any trend of overall foreign direct investment(filter to select any indivual sector)
+3) Is there any trend of overall foreign direct investment(filter to select any indivual sector)
 
-4)Which sectors reported high growth in FDI in last 5 years?
+4) Which sectors reported high growth in FDI in last 5 years?
 
-5)Which sectors reported lowest growth in FDI in last 5 years?
+5) Which sectors reported lowest growth in FDI in last 5 years?
 
-6)Which sectors reported the most variation overall?
+6) Which sectors reported the most variation overall?
 
-7)What is the proportion of each sector in FDI?
+7) What is the proportion of each sector in FDI?
 
-8)Are there some specific clusters that are present here?
+8) Are there some specific clusters that are present here?
 
-9)What is the forecast for next year?
+9) What is the forecast for next year?
